@@ -1,4 +1,4 @@
-﻿ID;N1;N2;N3;N4;P1;P2;P3
+﻿StudentId;NumericTestResult1;NumericTestResult2;NumericTestResult3;NumericTestResult4;PhraseTestResult1;PhraseTestResult2;PhraseTestResult3
 1;2;6;4;5;7;7;8
 2;7;3;5;7;6;7;6
 3;5;5;5;5;5;5;7
